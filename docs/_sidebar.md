@@ -1,16 +1,15 @@
 -  <span style='color:RED'><img src="wwwroot/images/MB.svg" alt="" style="margin-bottom:-4px" />&nbsp;组件说明</span>
 -  [✡ [ 代码管理 ] Git ](v1.0.0)
--  <!--[✡ [ 代码仓库 ] GitLab ](v2.0.0)-->
 -  [✡ [ 代码仓库 ] Gitea ](v3.0.0)
--  
--  <span style='color:Blue'><img src="wwwroot/images/MB.svg" alt="" style="margin-bottom:-4px" />&nbsp;[ 持续集成 ]</span>
--  [✡ [ 简要说明 ] JenKins ](J1.0.0)
--  [✴ [ 相关插件 ]](C1.0.0)
 -  -
+-  
+-  [✡ [ 持续集成 ] JenKins ](J1.0.0)
+-  [✡ [ 交付管道 ] Pipeline ](C3.0.0)
+-  -
+-  [✴ [ 相关插件 ]](C1.0.0)
 -  [✴ [ 插件配置 ] Gitea ](C2.0.0)
 -  [✴ [ 插件配置 ] SSH ](C4.0.0)
--  [🟢 [ 测试任务 ] Docker ](T1.0.0)
 -  -
--  [✡ [ 交付管道 ] Pipeline ](C3.0.0)
+-  [🟢 [ 普通任务 ] Docker ](T1.0.0)
 -  
 
