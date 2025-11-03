@@ -9,9 +9,11 @@
 
 >[!WARNING|style: flat|label: 简要说明 ]
 >
->- <span style='color:Blue'>[ 持续集成`Continuous Lintegration - CI`]</span> 代码合并、构建、部署、测试都在一起 <span style='color:red'>[ 不断地执行这个过程，并对结果反馈 ]</span>
->- <span style='color:Blue'>[ 持续部署`Continuous Deployment - CD`]</span> 部署到测试环境、预生产环境、生产环境
->- <span style='color:Blue'>[ 持续部署`Continuous Delivery - CD`]</span> 将最终产品发布到生产环境 ( 给用户使用 )
+>- <span style='color:Blue'>[ 持续集成`CI`]</span> 代码合并、构建、部署、测试全自动化 <span style='color:red'>[ 不断地执行这个过程 ]</span>
+>
+>- <span style='color:Blue'>[ 持续部署`CD`]</span> 部署到测试环境、生产环境
+>
+>  
 >
 >![image-20251101220932335](wwwroot\DocImage\image-20251101220932335.png)
 >
