@@ -3,14 +3,16 @@
 -  [✡ [ 代码仓库 ] Gitea ](v3.0.0)
 -  -
 -  
--  [✡ [ 持续集成 ] JenKins ](J1.0.0)
--  [✡ [ 交付管道 ] Pipeline ](C3.0.0)
+-  [✡ [ 部署安装 ] JenKins ](J1.0.0)
 -  -
 -  [✴ [ 相关插件 ]](C1.0.0)
 -  [✴ [ 插件配置 ] Gitea ](C2.0.0)
+-  [✴ [ 插件配置 ] Gitee ](C2_1.0.0)
 -  [✴ [ 插件配置 ] Dcoker ](C5.0.0)
 -  [✴ [ 插件配置 ] SSH ](C4.0.0)
 -  -
 -  [🟢 [ 普通任务 ] Docker ](T1.0.0)
 -  
+-  <span style='color:RED'><img src="wwwroot/images/MB.svg" alt="" style="margin-bottom:-4px" />&nbsp;[ 附录 ]</span>
+-  [✡ [ 流水线 ] Pipeline ](C3.0.0)
 
